@@ -1,0 +1,15 @@
+{
+  "name": "moveFiles",
+  "version": "0.1.0",
+  "description": "File utility to move files out of sub folders into a main folder.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Roberts Jr.",
+  "license": "MIT",
+  "dependencies": {
+    "file": "^0.2.2",
+    "graceful-fs": "^3.0.2"
+  }
+}
